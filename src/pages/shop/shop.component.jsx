@@ -30,3 +30,4 @@ render() {
 
 
 export default ShopPage
+
